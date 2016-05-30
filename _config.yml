@@ -1,0 +1,19 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            A Round Blog
+description:      'Yet Another Development Blog'
+url:              http://ARoundSquare.github.io
+baseurl:          /
+
+author:
+  name:           'Sean Kim'
+  url:            https://twitter.com/A_Round_Square
+
+paginate:         5
